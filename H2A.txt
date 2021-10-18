@@ -1,4 +1,4 @@
-laetus,-a,-um = blij, vrolijk, opgewekt
+laetus, -a, -um = blij, vrolijk, opgewekt
 regia = paleis
 amat = hij, zij, het houdt van, bemint
 donum = geschenk
@@ -14,7 +14,7 @@ nunc = nu
 per + acc. = door...heen, gedurende
 rex, regem (acc.) = koning
 vinum = wijn
-mirus,-a,-um = wonderbaarlijk, schitterend
+mirus, -a, -um = wonderbaarlijk, schitterend
 mutat = hij, zij, het verandert, verwisselt
 servus = slaaf
 et = en, ook

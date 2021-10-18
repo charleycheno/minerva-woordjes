@@ -8,7 +8,7 @@ mons, montem = berg
 errat = hij, zij, het zwerft rond, dwaalt, vergist zich
 deus = god
 habet = hij, zij, het heeft, houdt
-stultus,-a,-um = dom, stom, dwaas
+stultus, -a, -um = dom, stom, dwaas
 audit = hij, zij, het hoort, luistert
 canit hij, zij, het zingt, speelt
 silva = bos
