@@ -1,15 +1,15 @@
 silva = bos
-errat = hij zwerft rond, dwaalt, vergist zich
-videt = hij ziet
+errat = hij, zij, het zwerft rond, dwaalt, vergist zich
+videt = hij, zij, het ziet
 deus = god
-canit hij zingt, speelt
+canit hij, zij, het zingt, speelt
 certant = zij strijden, wedrijveren
 mons, montem = berg
-audit = hij hoort, luistert
+audit = hij, zij, het hoort, luistert
 victoria = overwinning
-dat = hij geeft
+dat = hij, zij, het geeft
 autem = echter, maar
-clamat = hij roept
+clamat = hij, zij, het roept
 victor, victorem = overwinnaar
 stultus,-a,-um = dom, stom, dwaas
-habet = hij heeft, houdt
+habet = hij, zij, het heeft, houdt
