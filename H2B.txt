@@ -10,6 +10,6 @@ deus = god
 habet = hij, zij, het heeft, houdt
 stultus, -a, -um = dom, stom, dwaas
 audit = hij, zij, het hoort, luistert
-canit hij, zij, het zingt, speelt
+canit = hij, zij, het zingt, speelt
 silva = bos
 videt = hij, zij, het ziet
