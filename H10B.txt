@@ -1,4 +1,4 @@
-natus = zoo
+natus = zoon
 pars, partis (v) = deel, kant
 cresco (crescěre) = groeien
 turba = menigte, massa, verwarring
